@@ -2,7 +2,7 @@
 
 Hello there! 👋
 
-I'm [Your Name], currently in my final year pursuing a degree in Information Security at [Your University Name - Optional, or just mention your field].
+I'm Johnny.
 
 This repository serves as my personal logbook and portfolio as I delve into the world of workflow automation using the powerful open-source platform, **n8n**. As an Information Security student, I'm particularly interested in how automation can enhance efficiency and potentially be applied in security contexts, while also exploring its broader applications.
 
@@ -28,15 +28,15 @@ You'll find this repository organized into subdirectories, each representing a s
 Here's a list of the projects documented in this repository:
 
 - **[Project 01: Name of Project 1]**: [Brief one-sentence description] - (Link to project directory)
-- **[Project 02: Name of Project 2]**: [Brief one-sentence description] - (Link to project directory)
+- **[Project 02: Name of Project 2]**: Not Yet
 - _(More projects will be added as I progress!)_
 
 ## Let's Connect
 
 I'm always open to connecting with others interested in automation, n8n, Information Security, or technology in general.
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL] (You are here!)
+- **LinkedIn:** [\[Your LinkedIn Profile URL\]](https://www.linkedin.com/in/mrnu/)
+- **GitHub:** [\[Your GitHub Profile URL\]](https://github.com/johnny-official) (You are here!)
 
 Feel free to explore the projects, raise issues, or provide feedback. Suggestions and collaboration ideas are always welcome!
 
