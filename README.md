@@ -27,8 +27,8 @@ You'll find this repository organized into subdirectories, each representing a s
 
 Here's a list of the projects documented in this repository:
 
-- **[Project 01: Name of Project 1]**: [Brief one-sentence description] - (Link to project directory)
-- **[Project 02: Name of Project 2]**: Not Yet
+- **[Project 01: Tech News Summarization & Delivery via Gemini and Telegram]**: Automates fetching tech news from RSS, summarizing with Gemini AI, and sending updates to Telegram.
+- **[Project 02: To Be Determined]**: _Not Yet Started_
 - _(More projects will be added as I progress!)_
 
 ## Let's Connect
