@@ -35,8 +35,8 @@ Here's a list of the projects documented in this repository:
 
 I'm always open to connecting with others interested in automation, n8n, Information Security, or technology in general.
 
-- \*\*[My LinkedIn\]](https://www.linkedin.com/in/mrnu/)
-- \*\*[My GitHub\]](https://github.com/johnny-official)
+- \*\*\[My LinkedIn\](https://www.linkedin.com/in/mrnu/)\*\*
+- \*\*\[My GitHub\](https://github.com/johnny-official)\*\*
 
 Feel free to explore the projects, raise issues, or provide feedback. Suggestions and collaboration ideas are always welcome!
 
